@@ -1,2 +1,2 @@
 # Algorithm
-# It is algorithm of sevral site.
+# It is algorithm of several site.
