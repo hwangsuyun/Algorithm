@@ -1,2 +1,2 @@
 # Algorithm
-# It is Algorithm of Programmers site.
+# It is algorithm of several site.
